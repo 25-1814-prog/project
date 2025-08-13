@@ -7,4 +7,13 @@
 
 <img width="246" height="136" alt="image" src="https://github.com/user-attachments/assets/4ee50db2-4ba8-40f8-bbe5-d64518fc39bd" />
 
-클릭한후 이상입니다
+클릭한후
+test1은 입력을 받고 그거를 출력하는 html입니다
+
+<img width="506" height="199" alt="image" src="https://github.com/user-attachments/assets/6485c0d0-c569-48fc-b396-1ab414a2262b" />
+
+
+<img width="316" height="172" alt="image" src="https://github.com/user-attachments/assets/ea6cadb7-ba72-45af-ba8e-639211c71af3" />
+
+
+이상입니다
